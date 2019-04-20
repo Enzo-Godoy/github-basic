@@ -1,3 +1,2 @@
 #Prueba con float. 
-![Screenshot](Capture.png)
-<img src="/docs/Capture.png" alt="My cool logo"/>
+![alt text](https://raw.githubusercontent.com/Enzo-Godoy/github-basic/master/Captura.png)
