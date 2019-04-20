@@ -1,0 +1,186 @@
+body {
+	padding: 0px;
+	margin: 0px;
+	background-color: #FFF;
+}
+
+
+header { 
+ background-color: #24292E;
+ width: 100%;
+ height: 70px;
+ display: block;
+}
+
+#logo {     
+ 	 height: 60px;
+ 	 padding: 5px;
+ 	 float: left;
+}
+
+
+.btn-profile {
+	float:right;		 
+ 	margin-top: 25px;
+ 	width: 20%;
+ 	background-color:  #24292E;
+}
+#btnConf3 {
+
+ 	background-color:  #24292E;
+ 	border: 0px;
+ 	border-radius: 2px;
+}
+
+#btnConf3 img {
+	width: 20px;	
+ 	background-color:  #24292E;
+}
+
+#btnConf2 {
+
+ 	background-color:  #24292E;
+ 	border: 0px;
+ 	border-radius: 2px;
+}
+
+#btnConf2 img {
+	width: 20px;	
+ 	background-color:  #24292E;
+}
+
+#btnConf1 {
+
+ 	background-color:  #24292E;
+ 	border: 0px;
+ 	border-radius: 2px;
+}
+
+#btnConf1 img {
+	width: 20px;	
+ 	background-color:  #24292E;
+}
+
+
+
+
+#buscador { 
+	display: block;
+	margin-left: 5px;	     
+ 	height: 20px;
+ 	float: left;
+ 	margin-top: 15px;
+
+}
+
+
+#buscador img{
+	width: 30px;
+	height: 30px; 	
+ 	float: left;
+}
+
+#buscador form { 
+	margin-left: 5px;
+ 	float: right;
+
+}
+
+#buscador form input {
+	background-color: #3F4448;
+	border-radius: 3px;
+	border: 1px;
+	height: 25px;
+}
+
+
+#logo {
+	display: block;
+}
+
+
+#logo nav {
+	float:  right;
+	list-style: none;
+	text-decoration: none;	
+	padding:0px;
+}
+
+header nav ul li { 
+	display: inline-block;	
+	color: #FFF;
+	font-size: 15px;
+}
+
+header nav ul li a { 
+	color: #FFF;
+	font-family: helvetica;
+
+}
+
+/* ------------------------------- main --------*/
+
+section {
+	height: 420px;
+	width: 100%;
+	margin-top: 10px;
+	padding: 2px;
+	display: block;
+
+}
+#profile {
+	float: left;
+	width: 50x;
+	margin-top: 10px;	
+	margin-bottom: 10px;
+}
+
+#img-not {
+	display: block;
+	width: 20%;
+	border: 1px solid black;
+	background-color: #fffbdd;
+	border-radius: 4px;
+	width:120px;
+	margin-left: 5px;
+	padding-left: 2px;
+}
+
+#img-not img {
+	margin-top: 3px;
+	width: 118px;
+	border-radius: 3px;
+	margin-bottom: -40px;
+}
+
+#img-not p {
+	margin-top: 35px;
+}
+
+.repo {	
+	float: right;
+	height: 140px;
+	margin-top: 10px;
+	overflow: hidden;
+	margin-right: 50px;
+	border: 1px solid black; 
+	border-radius: 2px; 
+	width: 150px;
+	padding-left: 4px;
+}
+
+.repo a {
+	font-size: 14px;
+}
+
+
+/* ---------------------- footer -------- */
+
+footer {
+	clear: both;
+	margin-top: 3px;
+	 background-color: #24292E;
+	 width: 100%;
+	 height: 55px;
+	 display: block;
+}
